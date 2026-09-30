@@ -1,0 +1,143 @@
+{
+ "associate_tag": "cassandram01e-20",
+ "disclosure": "As an Amazon Associate we earn from qualifying purchases.",
+ "categories": [
+  "New Kitten Kit",
+  "Toys",
+  "Naps",
+  "Snacks",
+  "Grooming"
+ ],
+ "hero": "kit",
+ "products": [
+  {
+   "id": "kit",
+   "name": "New Kitten Starter Kit",
+   "category": "New Kitten Kit",
+   "themes": [
+    "cute"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/kit.jpg",
+   "url": "https://www.amazon.com/s?k=kitten+starter+kit+essentials&tag=cassandram01e-20",
+   "seen_in": 235
+  },
+  {
+   "id": "wand",
+   "name": "Feather Wand Teaser",
+   "category": "Toys",
+   "themes": [
+    "play",
+    "funny",
+    "cute"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/wand.jpg",
+   "url": "https://www.amazon.com/s?k=feather+wand+cat+toy&tag=cassandram01e-20",
+   "seen_in": 445
+  },
+  {
+   "id": "tunnel",
+   "name": "Cat Tunnel 3-Way",
+   "category": "Toys",
+   "themes": [
+    "play",
+    "funny",
+    "home"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/tunnel.jpg",
+   "url": "https://www.amazon.com/s?k=collapsible+3+way+cat+tunnel&tag=cassandram01e-20",
+   "seen_in": 312
+  },
+  {
+   "id": "balltrack",
+   "name": "Interactive Ball Track",
+   "category": "Toys",
+   "themes": [
+    "play"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/balltrack.jpg",
+   "url": "https://www.amazon.com/s?k=cat+ball+track+tower+toy&tag=cassandram01e-20",
+   "seen_in": 147
+  },
+  {
+   "id": "plush",
+   "name": "Catnip Plush Toys",
+   "category": "Toys",
+   "themes": [
+    "play",
+    "cute"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/plush.jpg",
+   "url": "https://www.amazon.com/s?k=catnip+plush+toys+for+cats&tag=cassandram01e-20",
+   "seen_in": 382
+  },
+  {
+   "id": "bed",
+   "name": "Calming Donut Bed",
+   "category": "Naps",
+   "themes": [
+    "sleepy",
+    "cute"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/bed.jpg",
+   "url": "https://www.amazon.com/s?k=calming+donut+cat+bed&tag=cassandram01e-20",
+   "seen_in": 390
+  },
+  {
+   "id": "perch",
+   "name": "Window Perch Hammock",
+   "category": "Naps",
+   "themes": [
+    "home",
+    "sleepy"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/perch.jpg",
+   "url": "https://www.amazon.com/s?k=cat+window+perch+hammock&tag=cassandram01e-20",
+   "seen_in": 257
+  },
+  {
+   "id": "fountain",
+   "name": "Ceramic Water Fountain",
+   "category": "Snacks",
+   "themes": [
+    "food"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/fountain.jpg",
+   "url": "https://www.amazon.com/s?k=ceramic+cat+water+fountain&tag=cassandram01e-20",
+   "seen_in": 115
+  },
+  {
+   "id": "treats",
+   "name": "Freeze-Dried Chicken Treats",
+   "category": "Snacks",
+   "themes": [
+    "food"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/treats.jpg",
+   "url": "https://www.amazon.com/s?k=freeze+dried+chicken+cat+treats&tag=cassandram01e-20",
+   "seen_in": 115
+  },
+  {
+   "id": "groom",
+   "name": "Self-Grooming Brush",
+   "category": "Grooming",
+   "themes": [
+    "care"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/groom.jpg",
+   "url": "https://www.amazon.com/s?k=cat+self+grooming+slicker+brush&tag=cassandram01e-20",
+   "seen_in": 83
+  },
+  {
+   "id": "scratcher",
+   "name": "Cardboard Scratcher Lounge",
+   "category": "Grooming",
+   "themes": [
+    "home",
+    "care"
+   ],
+   "image": "https://bmob222.github.io/purrfeed-data/products/scratcher.jpg",
+   "url": "https://www.amazon.com/s?k=cardboard+cat+scratcher+lounge&tag=cassandram01e-20",
+   "seen_in": 185
+  }
+ ]
+}
